@@ -6,5 +6,6 @@ public class PrintHello {
 		System.out.println("Hello 1st commit");
 		System.out.println("Hello 2st commit");
 		System.out.println("Hello 3st commit");
+		System.out.println("Hello 4st commit");
 	}
 }
